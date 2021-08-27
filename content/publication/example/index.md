@@ -46,6 +46,4 @@ url_poster: ""
 url_code: ""
 doi: 10.1119/10.0004872
 ---
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary material can be found here, including [code, animations, and images](https://aapt.scitation.org/doi/suppl/10.1119/10.0004872).
