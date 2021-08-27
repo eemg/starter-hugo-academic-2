@@ -1,79 +1,49 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: "With the successes of the laser interferometer gravitational-wave
+  observatory, we anticipate increased interest in working with squeezed states
+  in the undergraduate and graduate quantum-mechanics classroom. Because
+  squeezed-coherent states are minimum uncertainty states, their wavefunctions
+  in position and momentum space must be Gaussians. But this result is rarely
+  discussed in treatments of squeezed states in quantum textbooks or quantum
+  optics textbooks. In this work, we show three different ways to construct the
+  wavefunction for squeezed-coherent states: (i) a differential equation-based
+  approach; (ii) an approach that uses an expansion in terms of the
+  simple-harmonic oscillator wavefunctions; and (iii) a fully operator-based
+  approach. We do this to illustrate that the concept of the wavefunction can be
+  introduced no matter what methodology an instructor wishes to use. We hope
+  that working with the wavefunction will help demystify the concept of a
+  squeezed-coherent state."
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - admin
+  - Sheldon Rego
+  - James K. Freericks
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: In *AJP*
+url_source: ""
+url_video: ""
+publication: In American Journal of Physics
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+date: 2021-08-27T20:02:44.549Z
+url_slides: ""
+title: Making squeezed-coherent states concrete by determining their wavefunction
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: image.png
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: 10.1119/10.0004872
 ---
 
 {{% callout note %}}
