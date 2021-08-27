@@ -36,7 +36,7 @@ title: Making squeezed-coherent states concrete by determining their wavefunctio
 tags: []
 projects: []
 image:
-  caption: ""
+  caption: Snapshot of the wavefunctions of a squeezed-coherent state
   focal_point: ""
   preview_only: false
   filename: image.png
