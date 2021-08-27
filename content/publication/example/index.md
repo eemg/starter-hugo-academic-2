@@ -13,7 +13,7 @@ abstract: "With the successes of the laser interferometer gravitational-wave
   introduced no matter what methodology an instructor wishes to use. We hope
   that working with the wavefunction will help demystify the concept of a
   squeezed-coherent state."
-slides: example
+slides: squeezed-coherent
 url_pdf: ""
 publication_types:
   - "2"
@@ -40,7 +40,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: image.png
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: 10.1119/10.0004872
