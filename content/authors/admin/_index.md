@@ -27,6 +27,4 @@ email: ""
 ---
 I am a recent physics graduate working with Prof. X at UCSC on BH-NS binary systems
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} A complete CV is available {{< staticref "uploads/CVEMunguia.pdf" "newtab" >}}here{{< /staticref >}}.
