@@ -28,7 +28,7 @@ image:
   caption: Snapshot of the wavefunctions of a squeezed-coherent state
   focal_point: ""
   preview_only: false
-  filename: image.png
+  filename: https://aapt.scitation.org/na101/home/literatum/publisher/aip/journals/content/ajp/2021/ajp.2021.89.issue-9/10.0004872/20210818/images/medium/10.0004872.figures.online.f1.jpg
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
