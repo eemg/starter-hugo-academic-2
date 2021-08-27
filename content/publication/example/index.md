@@ -26,9 +26,9 @@ tags: []
 projects: []
 image:
   caption: Snapshot of the wavefunctions of a squeezed-coherent state
-  focal_point: SMART
+  focal_point: smart
   preview_only: false
-  filename: image.png
+  filename: featured.png
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
