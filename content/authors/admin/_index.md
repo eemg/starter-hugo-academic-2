@@ -10,7 +10,7 @@ social:
     icon_pack: fas
     link: elihumunguia7@gmail.com
   - icon: ads
-    icon_pack: fas
+    icon_pack: ai
     link: https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Mungu%C3%ADa-Gonz%C3%A1lez%2C%20Eduardo%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
   - icon: linkedin
     icon_pack: fab
